@@ -8,10 +8,20 @@ Many of the issues present here aren't a big deal when you are watching a small 
 
 **Routine Failure to Load Videos**
   - I've used Youtube for a long time which gives me the misfortune of remembering an era in which Youtube videos would just load quickly and efficiently. Now videos take an excessive amount of time load assuming they even load at all. Having to wait 5-10 seconds for a video to load wouldn't be an issue if I were just watching a few videos, but I watch dozens of videos every day. Furthermore, sometimes the videos simply don't load. I'm uncertain if this is intentional or just a glitch but in order to get a playlist to actually load the next video after the previous one is finished you have to trigger the "loop playlist" setting. If all I had to do to fix it was hit the setting I wouldn't be so iritated, but for some reason the setting resets every time you skip a video in the playlist which I do often because I'm listening to music. This causes videos to routinely fail to load.
+
+**The Offending Setting:**
+
 <img width="500" height="228" alt="CSCI431 Youtube Playlist Loop Video" src="https://github.com/user-attachments/assets/1cbebc7b-531d-4d34-a785-ee8e048ad211" />
 
 **Shuffle Is A Lie!**
   - The shuffle feature should be ridiculously simple. Randomly generate a number between one and the number of videos in the playlist then load the video at that index. This is too difficult for Google to do apparently. Youtube's shuffle isn't random, it is instead based on some behind the scene algorithm that trys to play the videos it thinks you want instead of just shuffling the damn playlist. This causes Youtube playlists to ignore several videos in my playlist while repetedly showing me a few videos. Furthermore, sometimes the shuffle will just break entirely. A routine occurance is a glitch where Youtube will loop 3-6 songs. This forces me to stop what I'm doing to manually break the loop.
 
 ### Stop Reccomending Me Shit
-  - The music playlist my friends and I have made which we call the car playlist as of writing this has 620 songs on it. However, not all 620 songs are created equal; sometimes when I listen to this playlist I want to start at a specific point. Often that point is at the bottom of the playlist where the songs I recently added are. Navigating to the bottom of such a long playlist is very inconvinient. Fortunately, if you middle mouse click and drag down your computer will automatically scroll to the bottom of the page. This USED to be an effective method to quickly get to the bottom of the playlist with minimal effort. This was to nice so obviously Youtube decided to change this by adding multiple reccommended bars to the bottom of the playlist. Now when you try to use this strategy the playlist will stop loading part way through because it thinks you are looking at their stupid reccommended bars!
+  - The music playlist my friends and I have made which we call the car playlist, as of writing this, has 620 songs on it. However, not all 620 songs are created equal; sometimes when I listen to this playlist I want to start at a specific point. Often that point is at the bottom of the playlist where the songs I recently added are. Navigating to the bottom of such a long playlist is very inconvinient. Fortunately, if you middle mouse click and drag down your computer will automatically scroll to the bottom of the page. This USED to be an effective method to quickly get to the bottom of the playlist with minimal effort. This was too nice so Youtube decided to change this by adding multiple reccommended bars to the bottom of the playlist. Now when you try to use this strategy the playlist will stop loading part way through because it thinks you are looking at their stupid reccommended bars! I have to manually scroll back up so that more of the playlist will load before I can keep scrolling down.
+
+**Who even asked for this?**
+
+<img width="1681" height="821" alt="CSCI341 Youtube Playlist Stupid Fucking Reccomendation Bar" src="https://github.com/user-attachments/assets/dcb31328-e79f-46c1-bfe1-2f348d199eaa" />
+This is what the bottom screen of a Youtube playlist looks like at 67% zoom. Even zoomed out considerably you can't even see the last video in the playlist.
+
+
